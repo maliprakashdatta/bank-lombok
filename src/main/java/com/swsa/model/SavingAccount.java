@@ -17,7 +17,7 @@ public class SavingAccount
     String Gender;
     String Address;
     String EmailId;
-    long DOB;
+    String DOB;
     long MobileNo;
     int PinCode;
     long AadhaarNo;
