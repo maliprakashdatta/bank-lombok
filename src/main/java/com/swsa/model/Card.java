@@ -5,7 +5,6 @@ import lombok.*;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-
 public class Card {
 
     int CardId;
