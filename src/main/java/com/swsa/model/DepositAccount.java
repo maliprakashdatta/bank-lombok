@@ -9,13 +9,13 @@ import lombok.*;
 public class DepositAccount {
 
     long AccountNo;
-    long DepositAmount;
-    int MobileNo;
+    double DepositAmount;
+    long MobileNo;
     String AccountType;
     String LastName;
     String FirstName;
     String BranchName;
-    long Date;
+    String Date;
 
 
 
