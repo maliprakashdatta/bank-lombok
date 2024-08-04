@@ -7,7 +7,6 @@ import lombok.*;
 
 public class WithdrawAccount {
 
-
     long AccountNo;
     double WithdrawAmount;
 
